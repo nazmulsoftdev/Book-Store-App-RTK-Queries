@@ -1,0 +1,270 @@
+{
+  "books": [
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": true,
+      "comments": [
+        {
+          "text": "hello",
+          "date": "Jun 9 2007"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "featured": true,
+      "likes": 1,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice and excellent book",
+          "date": "2023"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": " The Autobiography of Malcolm X ",
+      "author": "Alex Haley",
+      "thumbnail": "https://d3i5mgdwi2ze58.cloudfront.net/9909v5tme50s5lqifff37f10o661",
+      "price": 300,
+      "rating": 4,
+      "featured": true,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Well book",
+          "date": "2023"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": " Silent Spring",
+      "author": "Rachel Carson",
+      "thumbnail": "https://d3i5mgdwi2ze58.cloudfront.net/j90t0mxubfjfqfiurdd3x74zo279",
+      "price": 200,
+      "rating": 3,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "The Double Helix: A Personal Account of the Discovery of the Structure of DNA",
+      "author": "James D. Watson",
+      "thumbnail": "https://d3i5mgdwi2ze58.cloudfront.net/hnx27etoby8juo32i254su161kmg",
+      "price": 300,
+      "rating": 3,
+      "featured": true,
+      "likes": 1,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Look Homeward, Angel",
+      "author": "Thomas Wolfe",
+      "thumbnail": "https://d3i5mgdwi2ze58.cloudfront.net/h0sry702ym96c93gkmy1pzu2b7yi",
+      "price": 300,
+      "rating": 4,
+      "featured": false,
+      "likes": 6,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "thumbnail": "https://cdn.hackr.io/uploads/posts/attachments/clean-code-a-handbook-of-agile-software-craftsmanship-1st-edition.webp",
+      "price": 200,
+      "rating": 4,
+      "featured": true,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "thumbnail": "https://cdn.hackr.io/uploads/posts/attachments/introduction-to-algorithms-eastern-economy-edition.webp",
+      "price": 300,
+      "rating": 3,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": true,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "Structure and Interpretation of Computer Programs",
+      "author": " Harold Abelson",
+      "thumbnail": "https://cdn.hackr.io/uploads/posts/attachments/structure-and-interpretation-of-computer-programs-2nd-edition-mit-electrical-engineering-and-computer-science1.webp",
+      "price": 250,
+      "rating": 4,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": " A Code of Conduct for Professional Programmers",
+      "author": "Robert C. Martin",
+      "thumbnail": "https://cdn.hackr.io/uploads/posts/attachments/the-clean-coder.webp",
+      "price": 300,
+      "rating": 4,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "A Practical Handbook of Software Construction",
+      "author": "Steve McConnell",
+      "thumbnail": "https://cdn.hackr.io/uploads/posts/attachments/code-caomplete.webp",
+      "price": 320,
+      "rating": 5,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": " Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm",
+      "thumbnail": "https://cdn.hackr.io/uploads/posts/attachments/BA0bDMZSatE6jsBLZZKS4o2wBFbwwK5vzdrE917R.webp",
+      "price": 250,
+      "rating": 4,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Nice book",
+          "date": "2023"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "thumbnail": "https://cdn.hackr.io/uploads/posts/attachments/refactoring-improving-the-design-of-existing-code-2nd-edition-addison-wesley-signature-series-fowler-2nd-edition.webp",
+      "price": 200,
+      "rating": 3,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [],
+      "id": 15
+    },
+    {
+      "name": " HTML and CSS: Design and Build Websites ",
+      "author": "Jon Duckett",
+      "thumbnail": "https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:325/h:486/q:mauto/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg",
+      "price": 150,
+      "rating": 4,
+      "featured": false,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [],
+      "id": 16
+    },
+    {
+      "name": "Learner’s Guide to Creating Standards-Based Web Pages",
+      "author": "Elisabeth Robson ",
+      "thumbnail": "https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:325/h:486/q:mauto/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg",
+      "price": 180,
+      "rating": 3,
+      "featured": true,
+      "likes": 0,
+      "dislikes": 0,
+      "isSaved": false,
+      "comments": [],
+      "id": 17
+    }
+  ]
+}
